@@ -1,0 +1,23 @@
+[33mcommit 4d04fe1976c517e942024c31c2213b1f0a1eeed0[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Chetana More <chetnamore791@gmail.com>
+Date:   Sun Jan 5 18:39:30 2025 +0530
+
+    Commit message
+
+[33mcommit 622ece06c08f248c81d76409c627fcfcb4e84331[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Chetana More <chetnamore791@gmail.com>
+Date:   Sat Jan 4 00:55:21 2025 +0530
+
+    first commit
+
+[33mcommit eade51e6a7043a9984fcd2784be3995d33585683[m
+Author: Chetana More <chetnamore791@gmail.com>
+Date:   Sat Jan 4 00:46:17 2025 +0530
+
+    Add frontend files
+
+[33mcommit f9250b8dae37bebcd890b1a971ae2552a399708c[m
+Author: Chetana More <chetnamore791@gmail.com>
+Date:   Sat Jan 4 00:45:20 2025 +0530
+
+    Add frontend as submodule
